@@ -1,0 +1,32 @@
+body {
+    background: url(./9d6b819518836904f2afc77235eda2f2.jpg);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+#card{
+    height: 350px;
+    width: 350px;
+    background-color: rgb(255, 255, 255);
+    margin:0 auto;
+    margin-top: 100px;
+    border-radius: 20px;
+    text-align: center;
+    padding: 20px;
+}
+h1{
+    font-weight: bold;
+    color: black;
+}
+h2 { 
+    color: rgb(145, 87, 11);
+}
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.icon{
+    color: rgb(145, 87, 11);
+    margin-right: 10px;
+}
